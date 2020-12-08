@@ -1,4 +1,4 @@
-# Citrus Systems - PHP Developer Test
+# PHP Developer Test
 
 App for the company of selling citrus
 
